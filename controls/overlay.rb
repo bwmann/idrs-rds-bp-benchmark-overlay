@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-include_controls 'crunchy-data-postgresql-stig-baseline' do
+include_controls 'rds-bp-benchmark' do
 
   control "tags" do
     impact 0.0
