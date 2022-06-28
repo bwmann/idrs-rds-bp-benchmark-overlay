@@ -1,6 +1,6 @@
-# aws-rds-best-practices-baseline  
+# acme-team-rds-bp-benchmark-overlay  
 
-InSpec profile to validate the secure configuration of your AWS RDS environment via inspec. The validation is based genreally off the AWS guidance found here: <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html>
+ACME Team tailored overlay of the basline InSpec profile to validate the secure configuration of your AWS RDS environment via inspec. The validation is based genreally off the AWS guidance found here: <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html>
 
 ## Getting Started  
 
