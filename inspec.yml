@@ -1,5 +1,5 @@
-name: acme-team-rds-bp-benchmark-overlay
-summary: ACME Team tailored Profile based on the Inspec Compliance Profile for AWS RDS best practices
+name: idrs-rds-bp-benchmark-overlay
+summary: IDRS tailored Profile based on the Inspec Compliance Profile for AWS RDS best practices
 version: 0.1.0
 inspec_version: '>= 4'
 
